@@ -1,6 +1,6 @@
 
 
-# SPAM SMS Unlimited
+# Pizza hut delivery checker
 
 Pizaa hut delivery checker dengan menggunakan bahasa pemrograman python
 ​
